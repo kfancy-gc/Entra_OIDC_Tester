@@ -1,9 +1,9 @@
 # Install prerequisite
-# bash
+bash
 pip install requests msal
 
 # Run
-# bash
+bash
 python entra_oidc_tester.py
 
 # What the app does:
