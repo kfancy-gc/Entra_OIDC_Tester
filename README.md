@@ -4,7 +4,7 @@ py -m pip install requests msal
 
 ## Run
 bash  
-python entra_oidc_tester.py
+py entra_oidc_tester.py
 
 ## What the app does
 - Configuration panel (left) — Enter your Entra ID details: Tenant ID, Client ID, Client Secret, Redirect URI, Scopes, and callback port. Settings are saved automatically to ~/.entra_oidc_tester.json between sessions.  
