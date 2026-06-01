@@ -1,6 +1,6 @@
 ## Install prerequisite
 bash  
-pip install requests msal
+py -m pip install requests msal
 
 ## Run
 bash  
